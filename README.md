@@ -1,5 +1,6 @@
 # Nutaku-Kamihime-Scripts
 This is a small collection of scripts to automate the more painful parts of the game.
+
 This is work in progress.
 
 # Requirements #
@@ -8,6 +9,7 @@ This is work in progress.
 
 
 Python 3+ and Requests(http://docs.python-requests.org/en/master/)
+
 A way for you to look at post request while game is running (Example: chrome inspector)
 
 # Files #
